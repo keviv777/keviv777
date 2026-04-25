@@ -126,6 +126,18 @@ Raw Messages → Filter → Ollama AI Extract → Validate → Sheets (Success/F
 
 ---
 
+### 🏠 Project 6 — IndiaLeadFlow — AI Real Estate Lead Qualifier (n8n + NVIDIA NIM + Supabase)
+
+AI-powered WhatsApp lead qualification system for Indian real estate businesses. 
+AI assistant "Priya" qualifies leads in Hindi/English/Hinglish, scores them Hot/Warm/Cold, 
+and stores everything in Supabase CRM automatically. Zero OpenAI cost — uses NVIDIA NIM free API.
+
+**Tools:** n8n · NVIDIA NIM (Llama 3.3 70B) · Supabase · WhatsApp Business API · Cloudflare Tunnel · JavaScript
+
+**GitHub:** [github.com/keviv777/india-leadflow-ai](https://github.com/keviv777/india-leadflow-ai)
+
+---
+
 ## 🧠 AI Workflows Portfolio
 
 ```
