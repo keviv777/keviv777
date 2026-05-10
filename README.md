@@ -213,15 +213,15 @@ Scheduler → Business Hours Gate → Search Posts → Dedup → Groq AI Reply �
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keviv777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=keviv777&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviv777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keviv777&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF&cache_seconds=1800"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=keviv777&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D5A&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=keviv777&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6D5A&currStreakLabel=58A6FF" alt="GitHub Streak"/>
 
 </div>
 
