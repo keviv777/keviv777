@@ -145,6 +145,48 @@ WhatsApp Message → Normalize → Supabase CRM → NVIDIA NIM AI → Score Lead
 
 ---
 
+### 7. 🛢️ [Rass Oil Vessel Automation](https://github.com/keviv777/rass-oil-vessel-automation)
+> 48-hour technical challenge — 3-workflow procurement automation for Dubai client
+
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+PDF Upload → Gemini AI Extract → Supabase → Top 3 Suppliers → Gmail Alert if >15%
+- ✅ PDF → AI extracts PCD, holes, material, pressure rating
+- ✅ Auto-matches cheapest suppliers from Kandla & Dubai
+- ✅ Instant Gmail alert when quotation exceeds benchmark by >15%
+- ✅ 3 workflows — delivered in 48 hours
+
+---
+
+### 8. 📱 [AI Social Media Automation](https://github.com/keviv777/shankar-group-social-automation)
+> End-to-end AI content pipeline — Shankar Group internship final round
+
+![Gemini](https://img.shields.io/badge/Gemini_1.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+![Leonardo](https://img.shields.io/badge/Leonardo_AI-FF6B35?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+Webhook Topic → Gemini Captions → Leonardo AI Image → Instagram + LinkedIn
+- ✅ Single webhook generates full multi-platform content package
+- ✅ AI images via Leonardo AI Phoenix model
+- ✅ Auto-posts to Instagram + LinkedIn simultaneously
+- ✅ Full error handling + Google Sheets logging
+
+---
+
+### 9. 🤖 [Auto Bid Bot](https://github.com/keviv777/auto-bid-bot)
+> Automated job-post discovery + AI bid system — LinkedIn & Twitter/X
+
+![Groq](https://img.shields.io/badge/Groq_LLaMA_3.1-F55036?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+Scheduler → Business Hours Gate → Search Posts → Dedup → Groq AI Reply → Post
+- ✅ Finds hiring posts via 3 parallel keyword searches
+- ✅ AI-generated personalised bid replies via Groq LLaMA 3.1
+- ✅ Dual-layer SQLite deduplication — zero repeat replies
+- ✅ Human-like random delays + business hours only
+
+---
+
 ## 🧠 AI Workflows Portfolio
 
 ```
@@ -159,6 +201,9 @@ WhatsApp Message → Normalize → Supabase CRM → NVIDIA NIM AI → Score Lead
 ║  📊 GST Invoice Helper         → Domain-specific AI Bot      ║
 ║  🏠 Property Parser (Prod)     → Multi-step AI Pipeline      ║
 ║  💇 Salon AI Orchestrator      → Multi-agent Claude Router   ║
+║  🛢️ Rass Oil Procurement       → Gemini AI + n8n + Supabase  ║
+║  📱 Social Media Automation    → Leonardo + Instagram + n8n  ║
+║  🤖 Auto Bid Bot               → Groq + Playwright + SQLite  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
